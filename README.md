@@ -1,20 +1,32 @@
-﻿# ADM-ULTIMATE-NEW-FREE
+# ADM-ULTIMATE-NEW-FREE BR
 
-Manager Script
+Script de gerenciamento
 
-1 • RECOMENDADO UBUNTU 14.04
+1 • UBUNTU RECOMENDADO 14.04
 
-2 • USAR DISTRIBUCION NUEVA O FORMATIADA
+2 • UTILIZAR DISTRIBUIÇÃO NOVA OU FORMATADA
 
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-ULTIMATE-NEW-FREE/master/instalar.sh; chmod 777 instalar.sh* && ./instalar.sh*
+Versão Original
 
-==================================================================================
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-ULTIMATE-NEW-FREE/master/instalar.sh; chmod 777 install.sh * && ./install
 
-*SIN MINERIA! *SIN KEYS! *VERSION GRATUITA *SIN VIRUS TROJANO (BOTNET) *ARCHIVOS LIBERADOS (DECENCRIPTADOS)
+=========================================================================== ================================================================
 
-==================================================================================
+* NENHUMA MINERAÇÃO! * Sem chaves! * VERSÃO GRATUITA * SEM VÍRUS DE TROJÃO (BOTNET) * ARQUIVOS LIBERADOS (DESCENTADOS)
+
+=========================================================================== ================================================================
 ☆ https://t.me/admmanagerfree ☆
-=================================================
-TEAM [ ILLUMINATI ⃘⃤꙰✰ ] @El_gato
+========================================================================
+EQUIPE [ILLUMINATI ⃘⃤꙰✰] @El_gato
 
 
+Contribuição BRASIL:
+
+
+☆ https://t.me/rdrigodias ☆
+========================================================================
+EQUIPE [ILLUMINATI ⃘⃤꙰✰] 
+EQUIPE [BOLTSERVERS ⃘⃤꙰✰]
+
+
+piramede perdida!
