@@ -139,7 +139,7 @@ chmod +x ${ARQ}/$1
 fun_ip
 wget -O /usr/bin/trans https://raw.githubusercontent.com/rdrigodias/ADM-ULTIMATE-NEW-FREE/master/Install/trans &> /dev/null
 msg -bar2
-msg -ama "[ NEW - ULTIMATE- PRO - SCRIPT ]"
+msg -ama "[ NEW - ULTIMATE - PRO - SCRIPT ]"
 [[ $1 = "" ]] && funcao_idioma || {
 [[ ${#1} -gt 2 ]] && funcao_idioma || id="$1"
  }
